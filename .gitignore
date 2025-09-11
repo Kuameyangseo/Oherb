@@ -4,6 +4,8 @@
 dist
 tmp
 out-tsc
+.env
+env
 
 # dependencies
 node_modules
@@ -44,3 +46,5 @@ Thumbs.db
 .github/instructions/nx.instructions.md
 
 test-output
+
+/generated/prisma
