@@ -6,7 +6,9 @@
     "emitDeclarationOnly": true,
     "importHelpers": true,
     "isolatedModules": true,
-    "lib": ["es2022"],
+    "lib": [
+      "es2022"
+    ],
     "module": "nodenext",
     "moduleResolution": "nodenext",
     "noEmitOnError": true,
@@ -18,8 +20,12 @@
     "strict": true,
     "target": "es2022",
     "paths": {
-      "@packages/*": ["packages/*"]
+      "@packages/*": [
+        "packages/*"
+      ]
     },
-    "customConditions": ["@oherb/source"]
+    "customConditions": [
+      "@oherb/source"
+    ]
   }
 }

@@ -18,7 +18,7 @@
       "{workspaceRoot}/.github/workflows/ci.yml"
     ]
   },
-  "nxCloudId": "68c1bb4900ebb55905b134fd",
+  "nxCloudId": "68c3244b2f4bb010a24779c2",
   "plugins": [
     {
       "plugin": "@nx/js/typescript",
